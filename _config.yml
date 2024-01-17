@@ -1,5 +1,10 @@
 title: Ugne Sakenyte
 logo: images/portrait.jpeg 
-#description: text below image 
+description: > 
+  <br>
+  MSc in Statistics | University of Geneva
+  <br><br>
+  <a href="https://www.linkedin.com/in/ugne-sakenyte/">View my LinkedIn Profile</a> 
+
 #show_downloads: true
 theme: jekyll-theme-minimal
