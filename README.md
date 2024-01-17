@@ -6,14 +6,14 @@ Master of Science in Statistics | University of Geneva
 Bachelor of Business Management and Analytics | ISM University of Management and Economics
 
 ## Work Experience
-#### Senior Associate (Credit Analyst, Banks) @ Moody's Investors Service 
-*(August 2019 – September 2021)*
+**Senior Associate  @ Moody's Investors Service** *(August 2019 – September 2021)*
+
+- credit ratings analyst of Swiss, German and Austrian banks
 - performed preliminary credit analysis to support ratings, research, analytical outreach and presentations
 - prepared financial spreadsheets and charts
 - analyzed data and financial statements and wrote analytical commentary in accordance with Moody’s methodologies.
 
-#### Accounting and Operations Manager @ butiq.lt 
-*(August 2017 – June 2019)*
+**Accounting and Operations Manager @ butiq.lt** *(August 2017 – June 2019)*
 - performed various finance and accounting-related tasks
 - was responsible for inventory accounting and management activities
 - prepared monthly sales and stock reports for various suppliers
