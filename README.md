@@ -35,7 +35,9 @@ I'm glad to share more details here on the super interesting projects I've worke
 
 *Supervisors: Prof. Sebastian Engelke, Prof. Bernhard Schölkopf, Lars Lorch*
 
-In this work, we introduce a principled approach for learning a latent causal representation of the data that is corrupted with measurement errors. In most real-world settings, the data-collection process involves varying levels of inaccuracies that distort the true outcomes from the causal generative mechanism, which makes it hard to uncover the underlying causal structure among variables in the system. Our proposed method bridges the gap between causal structure learning and the problem of measurement errors by learning a *probabilistic denoising model* that is designed to uncover the signal from a causal generative mechanism which is generally unobservable. In our experiments, we found a noticeable performance improvement when combining our denoising model with both classical and Bayesian structure learning methods. Here's the link to the [code base](https://github.com/ugne-sak/DRL4CD_thesis).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ugne-sak/DRL4CD_thesis)
+
+In this work, we introduce a principled approach for learning a latent causal representation of the data that is corrupted with measurement errors. In most real-world settings, the data-collection process involves varying levels of inaccuracies that distort the true outcomes from the causal generative mechanism, which makes it hard to uncover the underlying causal structure among variables in the system. Our proposed method bridges the gap between causal structure learning and the problem of measurement errors by learning a *probabilistic denoising model* that is designed to uncover the signal from a causal generative mechanism which is generally unobservable. In our experiments, we found a noticeable performance improvement when combining our denoising model with both classical and Bayesian structure learning methods. 
 
 <p align="center">
 <img src="images/main_figure.png" width="70%" height="70%" />
@@ -44,7 +46,9 @@ In this work, we introduce a principled approach for learning a latent causal re
 #### iTabPFN: Extending the Transformer Architecture in TabPFN with Interfeature Attention
 *@ Deep Learning course at the Department of Computer Science of ETH Zürich*
 
-iTabPFN is a Transformer designed to solve small classifiction tasks in tabular setting within seconds. Even with such an increase in speed, the performance of iTabPFN is comparable to baseline methods such as tree-based models (XGBoost, LightGBM). The architecture of iTabPFN is built upon [TabPFN](https://arxiv.org/abs/2207.01848). Our main contribution is an extension of TabPFN Transformer with an additional interfeature attention component, designed to effectively leverage on the row-column structure of tabular data. Here's the link to the [code base](https://github.com/ugne-sak/iTabPFN).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ugne-sak/iTabPFN)
+
+iTabPFN is a Transformer designed to solve small classifiction tasks in tabular setting within seconds. Even with such an increase in speed, the performance of iTabPFN is comparable to baseline methods such as tree-based models (XGBoost, LightGBM). The architecture of iTabPFN is built upon [TabPFN](https://arxiv.org/abs/2207.01848). Our main contribution is an extension of TabPFN Transformer with an additional interfeature attention component, designed to effectively leverage on the row-column structure of tabular data.
 
 <p align="center">
 <img src="images/iTabPFN_arcitecture.png" width="70%" height="70%" />
