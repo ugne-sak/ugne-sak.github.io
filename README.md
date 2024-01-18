@@ -11,7 +11,7 @@ Bachelor of Business Management and Analytics, ISM University of Management and 
 - credit ratings analyst of Swiss, German and Austrian banks
 - performed preliminary credit analysis to support ratings, research, analytical outreach and presentations
 - prepared financial spreadsheets and charts
-- analyzed data and financial statements and wrote analytical commentary in accordance with Moody’s methodologies.
+- analyzed data and financial statements and wrote analytical commentary in accordance with Moody’s methodologies
 
 **Accounting and Operations Manager @ butiq.lt** *(August 2017 – June 2019)*
 - performed various finance and accounting-related tasks
@@ -26,7 +26,7 @@ Bachelor of Business Management and Analytics, ISM University of Management and 
 
 *Supervisors: Prof. Sebastian Engelke, Prof. Bernhard Schölkopf, Lars Lorch*
 
-Discovering a causal structure underlying the variables in a system is an important task in many scientific disciplines. Most of the methods for causal structure learning operate under the assumption that observed data is an accurate reflection of the true interactions among the variables in a data-generating mechanism. However, observations in real-world datasets often contain noise and measurement error inherent to the data collection process, distorting the signal of the true dependencies. To mitigate the effect of such technical noise, we propose a principled approach for inferring the distribution of the unobservable signal from its noisy measurements by learning an *amortized variational denoising model*. 
+In this work, we introduce a principled approach for learning a latent causal representation of the data that is corrupted with measurement errors. In most real-world settings, the data-collection process involves varying levels of inaccuracies that distort the true outcomes from the causal generative mechanism, which makes it hard to uncover the underlying causal structure among variables in the system. Our proposed method bridges the gap between causal structure learning and the problem of measurement errors by learning a *probabilistic denoising model* that is designed to uncover the signal from a causal generative mechanism which is generally unobservable. In our experiments, we found a noticeable performance improvement when combining our denoising model with both classical and Bayesian structure learning methods. A more detailed description and the code base can be found here: https://github.com/ugne-sak/DRL4CD_thesis.
 
 <p align="center">
 <img src="images/main_figure.png" width="70%" height="70%" />
