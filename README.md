@@ -14,7 +14,7 @@ I'm glad to share more details here on the super interesting projects I've worke
   - master's thesis *@ ETH Zürich*
   - academic exchange, 3rd semester *@ ETH Zürich*
 
-- **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics*
+- **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics (Vilnius, Lithuania)*
 
 ## Work Experience
 **Senior Associate  @ Moody's Investors Service** *(August 2019 – September 2021)*
