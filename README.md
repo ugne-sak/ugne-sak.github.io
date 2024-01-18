@@ -3,7 +3,7 @@
 ## Education
 Master of Science in Statistics | University of Geneva
 
-Bachelor of Business Management and Analytics | ISM University of Management and Economics
+Bachelor of Business Management and Analytics, ISM University of Management and Economics
 
 ## Work Experience
 **Senior Associate  @ Moody's Investors Service** *(August 2019 – September 2021)*
