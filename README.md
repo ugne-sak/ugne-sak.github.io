@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist - Profile & Portfolio
 
 Hey! I'm Ugne, a recent MSc in Statistics graduate with solid experience in the financial sector as a former credit ratings analyst of Swiss, German, and Austrian banks. 
 
