@@ -2,12 +2,12 @@
 
 ## Education
 
-**Master of Science in Statistics** *@ University of Geneva*
-- master's thesis *@ ETH Zürich*
-- academic exchange, 3rd semester *@ ETH Zürich*
+- **Master of Science in Statistics** *@ University of Geneva*
+  - master's thesis *@ ETH Zürich*
+  - academic exchange, 3rd semester *@ ETH Zürich*
 
-**Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics*
-- academic exchange, 3-4 semesters *@ FHWien der WKW*
+- **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics*
+  - academic exchange, 3-4 semesters *@ FHWien der WKW*
 
 ## Work Experience
 **Senior Associate  @ Moody's Investors Service** *(August 2019 – September 2021)*
