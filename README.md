@@ -5,6 +5,8 @@ Hey! I'm Ugne, a recent MSc in Statistics graduate with solid experience in the 
 The master's program has trained me both as a statistician and computer scientist: from building the theoretical foundation of Statistical and Machine Learning models to lots of hands-on experience with current state-of-the-art ML techniques, training deep neural networks on HPC cluster and developing a novel methodology to improve causal discovery with application to synthetic single-cell RNA sequencing data. 
 
 I'm glad to share more details here on the super interesting projects I've worked on - welcome and enjoy the read!  
+&nbsp;
+&nbsp;
 
 ## Education
 
