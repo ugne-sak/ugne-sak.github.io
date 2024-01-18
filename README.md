@@ -32,7 +32,7 @@ I'm glad to share more details here on the super interesting projects I've worke
   
 ## Projects
 
-### Denoising Representation Learning for Causal Discovery <be> (Master's Thesis)
+### Denoising Representation Learning for Causal Discovery <br> (Master's Thesis)
 
 *@ Learning & Adaptive Systems Group at the Department of Computer Science of ETH Zürich*
 
