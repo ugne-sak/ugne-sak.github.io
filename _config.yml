@@ -1,10 +1,15 @@
 title: Ugne Sakenyte
 logo: images/portrait.jpeg 
-description: > 
-  <br>
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ugne-sakenyte/">LinkedIn</a> |
+  <a href="https://github.com/ugne-sak">GitHub</a>
+  </p>
+
+  <p align="justify">
   MSc in Statistics graduate at the University of Geneva, former credit ratings analyst of DACH banking sector at Moodys Investors Service.
   <br><br>
-  <a href="https://www.linkedin.com/in/ugne-sakenyte/">View my LinkedIn Profile</a> 
 
 #show_downloads: true
 theme: jekyll-theme-minimal
