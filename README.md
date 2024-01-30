@@ -14,7 +14,7 @@ I'm glad to share more details here on the super interesting projects I've worke
   - master's thesis *@ ETH Zürich*
   - academic exchange, 3rd semester *@ ETH Zürich*
 
-- **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics*
+- **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics (Vilnius, Lithuania)*
 
 ## Work Experience
 **Senior Associate  @ Moody's Investors Service** *(August 2019 – September 2021)*
@@ -32,7 +32,8 @@ I'm glad to share more details here on the super interesting projects I've worke
   
 ## Projects
 
-#### Denoising Representation Learning for Causal Discovery (Master's Thesis)
+### Denoising Representation Learning for Causal Discovery <br> (Master's Thesis)
+
 *@ Learning & Adaptive Systems Group at the Department of Computer Science of ETH Zürich*
 
 *Supervisors: Prof. Sebastian Engelke, Prof. Bernhard Schölkopf, Lars Lorch*
@@ -45,7 +46,7 @@ In this work, we introduce a principled approach for learning a latent causal re
 <img src="images/main_figure.png" width="70%" height="70%" />
 </p>
 
-#### iTabPFN: Extending the Transformer Architecture in TabPFN with Interfeature Attention
+### iTabPFN: Extending the Transformer Architecture in TabPFN with Interfeature Attention
 *@ Deep Learning course at the Department of Computer Science of ETH Zürich*
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ugne-sak/iTabPFN)
