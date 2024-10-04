@@ -17,7 +17,7 @@ I'm glad to share more details here on the super interesting projects I've worke
 - **Bachelor of Business Management and Analytics** *@ ISM University of Management and Economics (Vilnius, Lithuania)*
 
 ## Work Experience
-**Data Scientist / Data Analyst Intern @ UBS** *(April 2024 – October 2024)*
+**Data Scientist Intern @ UBS** *(April 2024 – March 2025)*
 
 - developing ML/AI models for banking business topics, leveraging LLMs and cutting-edge ML techniques 
 - proposed and implemented a new predictive model, achieving +20pp improvement over the existing approach
