@@ -1,6 +1,6 @@
 # Data Scientist - Profile & Portfolio
 
-Hey! I'm Ugne, a recent MSc in Statistics graduate, currently working as a Data Scientist / Data Analyst Intern at UBS Switzerland.
+Hey! I'm Ugne, a recent MSc in Statistics graduate, currently working as a Data Scientist Intern at UBS Switzerland.
 
 The master's program has trained me both as a statistician and computer scientist: from building the theoretical foundation of Statistical and Machine Learning models to lots of hands-on experience with current state-of-the-art ML techniques, training deep neural networks on HPC cluster and developing a novel methodology to improve causal discovery with application to synthetic single-cell RNA sequencing data. 
 
@@ -19,10 +19,10 @@ I'm glad to share more details here on the super interesting projects I've worke
 ## Work Experience
 **Data Scientist / Data Analyst Intern @ UBS** *(April 2024 – October 2024)*
 
-- took part in developing ML models for deposit-related topics
-- had hands-on exposure to ML pipeline
+- developing ML/AI models for banking business topics, leveraging LLMs and cutting-edge ML techniques 
+- proposed and implemented a new predictive model, achieving +20pp improvement over the existing approach
 - implemented a new automation pipeline in Python of data extraction and manipulation for weekly reporting
-- contributed to data reporting and analysis initiatives using SQL and Power BI
+- contributed to data reporting and analysis initiatives using SQL
 
 **Senior Associate @ Moody's Investors Service** *(August 2019 – September 2021)*
 
