@@ -1,10 +1,12 @@
 # Data Scientist - Profile & Portfolio
 
-Hey! I'm Ugne, a recent MSc in Statistics graduate, currently working as a Data Scientist Intern at UBS Switzerland.
+Hey! I’m Ugne, a data scientist at UBS with a master's degree in Statistics and research experience at ETH Zurich's Computer Science Department.
 
-The master's program has trained me both as a statistician and computer scientist: from building the theoretical foundation of Statistical and Machine Learning models to lots of hands-on experience with current state-of-the-art ML techniques, training deep neural networks on HPC cluster and developing a novel methodology to improve causal discovery with application to synthetic single-cell RNA sequencing data. 
+The master’s program has trained me both as a statistician and computer scientist: from building the theoretical foundation of Statistical and Machine Learning models to hands-on experience in research, training deep neural networks on HPC cluster and developing a novel methodology to improve causal discovery with application to synthetic single-cell RNA sequencing data. 
 
-I'm glad to share more details here on the super interesting projects I've worked on - welcome and enjoy the read!  
+As a Data Scientist at UBS, I gained good experience in software engineering concepts, writing high-quality code, versioning and collaboration tools, and, more importantly, delivered value to the company through multiple successful projects.
+
+I’m glad to share more details here on the exciting projects I’ve worked on - welcome and enjoy the read! 
 &nbsp;
 &nbsp;
 
