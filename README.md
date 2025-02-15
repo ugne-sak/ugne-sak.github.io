@@ -10,7 +10,7 @@ I’m glad to share more details here on the exciting projects I’ve worked on 
 &nbsp;
 &nbsp;
 
-## Education
+## <span style="color:blue">Education</span>
 
 - **Master of Science in Statistics** *@ University of Geneva*
   - master's thesis *@ ETH Zürich*
